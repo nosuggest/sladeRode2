@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8268d467-3ef6-4715-9c48-1fbd3a96812a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/元类/元类.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/全局解释器锁GIL/GIL.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/全局解释器锁GIL/进程和线程.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/内建变量/变量.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/垃圾回收/gc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/装饰器/wrapper.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/迭代生成/迭代生成.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/魔法函数/__init__、__new__、__call__方法.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/魔法函数/实例方法、静态方法、类方法、抽象方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/类当做装饰器/Case01.py" afterPath="$PROJECT_DIR$/装饰器/Case01.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/类当做装饰器/Case02.py" afterPath="$PROJECT_DIR$/装饰器/Case02.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/类当做装饰器/__init__.py" afterPath="$PROJECT_DIR$/装饰器/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/常见问题/常见问题.md" afterPath="$PROJECT_DIR$/常见问题/常见问题.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/元类/元类.md" afterPath="$PROJECT_DIR$/元类/元类.md" />
     </list>
     <ignored path="sladeRode2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,43 +46,9 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="960">
-                <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
                 <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="实例方法、静态方法、类方法、抽象方法.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/魔法函数/实例方法、静态方法、类方法、抽象方法.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding>
-                  <marker date="1573028830851" expanded="true" signature="169:268" ph="..." />
-                  <marker date="1573028830851" expanded="true" signature="198:207" ph="..." />
-                  <marker date="1573028830851" expanded="true" signature="198:223" ph="..." />
-                  <marker date="1573028830851" expanded="true" signature="243:268" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-                <folding>
-                  <marker date="1573028830851" expanded="true" signature="169:268" ph="..." />
-                  <marker date="1573028830851" expanded="true" signature="198:207" ph="..." />
-                  <marker date="1573028830851" expanded="true" signature="198:223" ph="..." />
-                  <marker date="1573028830851" expanded="true" signature="243:268" ph="..." />
-                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -131,10 +84,10 @@
         <option value="$PROJECT_DIR$/魔法函数/__init__、__new__、__call__方法.md" />
         <option value="$PROJECT_DIR$/内建变量/变量.md" />
         <option value="$PROJECT_DIR$/常见问题/常见问题.md" />
-        <option value="$PROJECT_DIR$/元类/元类.md" />
         <option value="$PROJECT_DIR$/全局解释器锁GIL/GIL.md" />
         <option value="$PROJECT_DIR$/全局解释器锁GIL/进程和线程.md" />
         <option value="$PROJECT_DIR$/魔法函数/实例方法、静态方法、类方法、抽象方法.md" />
+        <option value="$PROJECT_DIR$/元类/元类.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -234,6 +187,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="常见问题" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sladeRode2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sladeRode2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="全局解释器锁GIL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sladeRode2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sladeRode2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="元类" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -603,9 +584,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24749643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24749643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -850,28 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/元类/元类.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="10" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/全局解释器锁GIL/GIL.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1084,6 +1043,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/元类/元类.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="80" selection-start-line="3" selection-start-column="80" selection-end-line="3" selection-end-column="80" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1098,8 +1079,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="960">
-            <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
