@@ -5,7 +5,7 @@
 - [pyc文件是什么](python底层/执行过程.md#L1)
 - [为什么要有pyc，pyc的作用是什么](python底层/执行过程.md#L1)
 - [请描述pyc的生成过程](python底层/执行过程.md#L1)
-- [pyc运行环境](python底层/执行过程.md#L1)
+- [pyc运行环境是什么](python底层/执行过程.md#L1)
 - [解释pyc的字节码](python底层/执行过程.md#L1)
 - [解释型语言和编译型语言](python底层/执行过程.md#L1)
 - [为什么说python不是编译是解释型语言](python底层/执行过程.md#L1)
